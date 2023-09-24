@@ -361,13 +361,5 @@ Warmly welcome everyone to participate in this project!!! If you are interested 
 |2020|[NeRF Explosion 2020](https://dellaert.github.io/NeRF/)|Frank Dellaert|EN| -->
 
 ## Acknowledgment
-When we reviewed the literatures about NeRF, we found that this excellent [repo](https://github.com/yenchenlin/awesome-NeRF) had not been updated for a long time, so we reorganized and released our [awesome-NeRF](https://github.com/koolo233/awesome-NeRF). Some features were borrowed from [repo](https://github.com/yenchenlin/awesome-NeRF), so we are grateful for their works.
-
-## Team
-### Team Members
-[Zhongwei Qiu](https://github.com/qiuzhongwei-USTB) (Leader), [Zijiang Yang](https://github.com/koolo233), [Tianle Cheng](https://github.com/Oak112)
-### Contributors
-
-[Hutao99999](https://github.com/Hutao99999), [Tyler Luan](https://github.com/ykk648)
-
+This repo features are based on  [repo](https://github.com/yenchenlin/awesome-NeRF) and [awesome-NeRF](https://github.com/koolo233/awesome-NeRF). We are grateful for their works.
 
